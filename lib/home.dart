@@ -53,7 +53,7 @@ class _HomeState extends State<Home> {
         //   centerTitle: true,
         // ),
         bottomNavigationBar: Padding(
-          padding: const EdgeInsets.only(bottom: 15, right: 20, left: 20),
+          padding: const EdgeInsets.only(bottom: 12, right: 20, left: 20),
           child: Container(
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(16),
